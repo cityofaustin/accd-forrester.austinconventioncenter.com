@@ -11,13 +11,9 @@ event_coordinator:
   email: james.randall@austintexas.gov
   phone: 5124044223
 utility_coordinator:
-  name: Ben Hamilton
-  email: ben.hamilton@austintexas.gov
-  phone: 5124044236
-security_coordinator:
-  name: David Ortiz
-  email: David.Ortiz@austintexas.gov
-  phone: 5124044071
+  name: Eddy Yanez
+  email: eddy.yanez@austintexas.gov
+  phone: 5124044233
 sales_manager:
   name: Necah Cannon, CASE, CMP, CSEP
   email: necah.cannon@austintexas.gov
@@ -26,10 +22,6 @@ catering_manager:
   name: Kerry Craig
   email: kcraig@levyrestaurants.com
   phone: 5124044137
-it_coordinator:
-  name: Chad Paine
-  email: chad.paine@austintexas.gov
-  phone: 5124044098
 theme: 
 remote_theme: cityofaustin/jekyll-theme-kocurek@v0.3.4
 searchable: true
